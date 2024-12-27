@@ -18,7 +18,8 @@
 # Como Jogar
 * Faça download do arquivo (MemoryGame.jar) aqui: https://github.com/IsaacWeber/MemoryGame/blob/main/MemoryGame.jar
 * Depois clique no jogo e aguarde ele abrir. 
-* Se não abrir, verifique se no seu computador tem Java 8+. Para isso, você pode usar o tutorial: https://pt.wikihow.com/Descobrir-Sua-Vers%C3%A3o-do-Java 
+* Se não abrir, verifique se no seu computador tem Java 8+. Para isso, você pode usar o tutorial: https://www.youtube.com/watch?v=nxLjXh63ZM0
+* Se não tiver, baixe. Siga os passos no vídeo: https://www.youtube.com/watch?v=P_pUh_QTBHY
 * Clique no jogo novaente.
 # Bugs
 * Às vezes, há um bug que no início não aparece a tela corretamente, mas basta excutá-lo novamente.
