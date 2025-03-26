@@ -3,26 +3,8 @@
 /*     */ import java.util.Random;
 /*     */ import javax.swing.Icon;
 /*     */ import javax.swing.ImageIcon;
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
+
+
 /*     */ public class ImageManager
 /*     */ {
 /*  28 */   private Random rand = new Random();
@@ -80,17 +62,7 @@
 /*     */     
 /*  81 */     return im;
 /*     */   }
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
-/*     */ 
+
 /*     */   
 /*     */   private static final int GAME = 2;
 /*     */   private static final int HTML = 3;
